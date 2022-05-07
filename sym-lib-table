@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "KF301-2P")(type "KiCad")(uri "${KIPRJMOD}/footprints/kf301-2p/KF301-2P.kicad_sym")(options "")(descr ""))
 )
