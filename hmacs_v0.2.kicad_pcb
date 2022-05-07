@@ -2326,6 +2326,11 @@
       (net 22 "LINE") (pinfunction "Pin_1") (pintype "passive") (tstamp 1f52be80-d069-4f82-a757-bbdcb447af61))
     (pad "2" thru_hole circle locked (at 2.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask)
       (net 23 "NEUT") (pinfunction "Pin_2") (pintype "passive") (tstamp 3a3ad8a7-80b6-4190-bfb4-e904b654d735))
+    (model "${KIPRJMOD}/models/kf301-2p/AB2_TB_02_RA_5MM-BLU.wrl"
+      (offset (xyz 0 -0.25 0))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_circle locked (center 62 134) (end 66.25 134) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp 08db574a-bc38-47c3-a79b-ddf0ccca9a60))
